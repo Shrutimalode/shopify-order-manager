@@ -8,7 +8,7 @@ A Shopify embedded app that syncs and manages store orders in real-time.
 - **Order Dashboard** - View all orders with customer info, totals, and timestamps
 - **Cancellation Tracking** - Auto-removes cancelled orders from the database
 - **Secure Webhooks** - HMAC-verified webhook handling
-
+ 
 ## Tech Stack
 
 - **Framework**: Remix + React
