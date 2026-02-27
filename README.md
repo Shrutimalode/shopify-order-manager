@@ -80,6 +80,3 @@ npm run deploy
 - Shopify Partner account
 - Development store for testing
 
-## License
-
-MIT
